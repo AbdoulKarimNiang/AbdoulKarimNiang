@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdoulKarimNiang
 - 👀 I’m interested in Analytics and Data Engineering
 - 🌱 I’m currently learning Python, PySpark, SQL, Cloud
-- 💞️ I’m looking to collaborate on Controlling and Engineering
+- 💞️ I’m looking to collaborate on Controlling and Data Engineering
 - 📫 How to reach me https://www.linkedin.com/in/karimniang/[LinkedIn](url) 
