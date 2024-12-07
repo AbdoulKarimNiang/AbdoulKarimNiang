@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @AbdoulKarimNiang
-- 👀 I’m interested in Analytics and Data Engineering
-- 🌱 I’m currently learning Python, PySpark, SQL, AWS Services, PowerShell and JavaScript.
-- 💞️ I’m looking to collaborate Data Engineering
-- 📫 How to reach me https://www.linkedin.com/in/karimniang/[LinkedIn](url) 
+- 👀 I’m a Data Engineer Professional
+- 🌱 I’m currently working with :
+  * Python
+  * PySpark
+  * SQL
+  * AWS Services (Athena, Redshift,S3)
+  * PowerShell
+  * Grafana
+- 🤓 I love learning new things!
+- 💞️ I’m looking to collaborate, learn and meet Data Engineering and Data Professionals in general
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/karimniang/)
